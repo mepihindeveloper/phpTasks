@@ -27,4 +27,3 @@ foreach ($numbers as $number) {
         $sum += $result;
     }
 }
-?>
